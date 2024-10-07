@@ -177,9 +177,9 @@ class PaymentPage extends GetView<PaymentController> {
                 ),
               ],
             ),
-            AcceptReject(
-              assetName: "assets/icons/approve.svg",
-            ),
+            // AcceptReject(
+            //   assetName: "assets/icons/approve.svg",
+            // ),
 
           ],
         ),
